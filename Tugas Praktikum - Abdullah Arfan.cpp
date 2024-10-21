@@ -4,6 +4,8 @@
 
 using namespace std;
 
+//Komentar untuk tugas WGTIK
+
 // Kelas dasar untuk Aset
 class Aset {
 public:
